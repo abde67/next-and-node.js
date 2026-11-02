@@ -1,0 +1,15 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "license": "ISC",
+  "author": "abebech",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "slugify": "^1.6.9"
+  }
+}
